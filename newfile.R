@@ -1,1 +1,1 @@
-#type in some comment 
+# these are my course notes 
